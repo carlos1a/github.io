@@ -46,7 +46,8 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand page-scroll" href="#page-top"><img id="bulb" type="image/svg+xml" src="logo/logo.svg" />Regaze.com.ve</a>
+                <a href="#page-top" class="navbar-brand "><?php include('logo/logo.html'); ?></a>
+                <a class="navbar-brand page-scroll" href="#page-top">  Regaze.com.ve</a>
             </div>
 
             <!-- Collect the nav links, forms, and other content for toggling -->
@@ -704,6 +705,8 @@
 
     <!-- Custom Theme JavaScript -->
     <script src="js/agency.js"></script>
+
+
 
 </body>
 
