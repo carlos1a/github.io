@@ -5,10 +5,14 @@ svg {
   width: 600px;
 }
 
+.navbar-brand>img {
+  display:initial;
+}
 
 #bulb {
+
   -webkit-transform: rotateZ(180deg);
           transform: rotateZ(180deg);
-  width: 6%;
-  max-width: 5px;
+  width: 60%;
+  max-width: 50px;
 }
