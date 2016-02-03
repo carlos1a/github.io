@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
 
     <meta charset="utf-8">
@@ -46,7 +45,7 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a href="#page-top" class="navbar-brand "><?php include('logo/logo.html'); ?></a>
+                <a href="#page-top" class="navbar-brand page-scroll"><?php include('logo/logo.html'); ?></a>
                 <a class="navbar-brand page-scroll" href="#page-top">  Regaze.com.ve</a>
             </div>
 
@@ -99,7 +98,7 @@
                 </div>
             </div>
             <div class="row text-center">
-                <div class="col-md-4">
+                <div class="col-md-3">
                     <span class="fa-stack fa-4x">
                         <i class="fa fa-circle fa-stack-2x text-primary"></i>
                         <i class="fa fa-line-chart fa-stack-1x fa-inverse"></i>
@@ -107,17 +106,24 @@
                     <h4 class="service-heading">Posicionamos Tu Marca</h4>
                     <p class="text-muted" align="justify">Posicionamiento Web, las mejores técnicas de SEO para que seas el líder en todos tus servicios, Marketing online, Campañas de redes sociales. </p>
                 </div>
-                <div class="col-md-4">
+                <div class="col-md-3">
                     <span class="fa-stack fa-4x">
                         <i class="fa fa-circle fa-stack-2x text-primary"></i>
                         <i class="fa fa-laptop fa-stack-1x fa-inverse"></i>
                     </span>
-                    <h4 class="service-heading">Desarrollo Tu Idea</h4>
-
-                    <p class="text-muted">Desarrollo de aplicaciones web, páginas empresariales, tiendas virtuales, diseño de logos, animaciones 2D. Con los lenguajes de programación más actuales, HTML5, CSS3, BOOTSTRAP, PHP, RUBY, PYTHON, MySql, PostgreSql, MongoDB.  </p>
+                    <h4 class="service-heading">Desarrollamos Tu Idea</h4>
+                    <p class="text-muted" align="justify">Aplicaciones web, Langing Page, Ecommerce, Diseño de Logos, Animaciones y mucho más con lenguajes vanguardistas</p>
 
                 </div>
-                <div class="col-md-4">
+                <div class="col-md-3">
+                    <span class="fa-stack fa-4x">
+                        <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                        <i class="fa fa-line-chart fa-stack-1x fa-inverse"></i>
+                    </span>
+                    <h4 class="service-heading">Hacemos tus fotos y Videos</h4>
+                    <p class="text-muted" align="justify">Realizamos las fotografías para tu galería, filmamos tus videos de lanzamiento, para mostrar tus productos con calidad e innovación </p>
+                </div>
+                <div class="col-md-3">
                     <span class="fa-stack fa-4x">
                         <i class="fa fa-circle fa-stack-2x text-primary"></i>
                         <i class="fa fa-user-md fa-stack-1x fa-inverse"></i>
