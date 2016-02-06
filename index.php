@@ -8,7 +8,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Regaze.com.ve</title>
+    <title>Regaze</title>
 
     <!-- Bootstrap Core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -118,7 +118,7 @@
                 <div class="col-md-3">
                     <span class="fa-stack fa-4x">
                         <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                        <i class="fa fa-line-chart fa-stack-1x fa-inverse"></i>
+                        <i class="fa fa-camera fa-stack-1x fa-inverse"></i>
                     </span>
                     <h4 class="service-heading">Hacemos tus fotos y Videos</h4>
                     <p class="text-muted" align="justify">Realizamos las fotografías para tu galería, filmamos tus videos de lanzamiento, para mostrar tus productos con calidad e innovación </p>
@@ -128,7 +128,7 @@
                         <i class="fa fa-circle fa-stack-2x text-primary"></i>
                         <i class="fa fa-user-md fa-stack-1x fa-inverse"></i>
                     </span>
-                    <h4 class="service-heading">Siempre para Tí</h4>
+                    <h4 class="service-heading">Siempre a tu Servicio</h4>
                     <p class="text-muted" align="justify">Te ofrecemos la mejor acesoría técnica y especializada, que te podrán ayudar con cualquier duda que tengas con alguno de nuestros servicios.</p>
                 </div>
             </div>
