@@ -10,7 +10,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="">
+    <meta name="description" content="Aplicaciones web, Landing Page, Ecommerce, Diseño de Logos, Animaciones y mucho más con lenguajes vanguardistas, Posicionamiento Web, las mejores técnicas de SEO para que seas el líder en todos tus servicios, Marketing online, Campañas de redes sociales.">
     <meta name="author" content="">
 
     <title>Regaze, desarrollo, web, landing, page, startup, design, developer</title>
@@ -117,7 +117,7 @@
                         <i class="fa fa-laptop fa-stack-1x fa-inverse"></i>
                     </span>
                     <h4 class="service-heading">Desarrollamos Tu Idea</h4>
-                    <p class="text-muted" align="justify">Aplicaciones web, Langing Page, Ecommerce, Diseño de Logos, Animaciones y mucho más con lenguajes vanguardistas</p>
+                    <p class="text-muted" align="justify">Aplicaciones web, Landing Page, Ecommerce, Diseño de Logos, Animaciones y mucho más con lenguajes vanguardistas</p>
 
                 </div>
                 <div class="col-md-3">
