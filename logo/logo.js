@@ -7,7 +7,7 @@ tl
     alpha: 0
   }, {
     alpha: 1,
-    fill: "#595959",
+    fill: "#a6a6a6",
     delay: 1
   }, 0.25)
 
