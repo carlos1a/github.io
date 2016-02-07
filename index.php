@@ -51,7 +51,7 @@
                     <span class="icon-bar"></span>
                 </button>
                 <a href="#page-top" class="navbar-brand page-scroll" style="padding: 2px 3px;"><?php include('logo/logo.html'); ?></a>
-                <a class="navbar-brand page-scroll" href="#page-top"style="padding: 15px 0px;">  Regaze.com.ve</a>
+                <a class="navbar-brand page-scroll" href="#page-top"style="padding: 15px 0px;">  &lt;REGAZE/&gt;</a>
             </div>
 
             <!-- Collect the nav links, forms, and other content for toggling -->
