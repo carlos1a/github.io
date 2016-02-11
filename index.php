@@ -94,7 +94,7 @@
             </div>
             <div class="row text-center">
                 <div class="col-md-3">
-                    <span class="fa-stack fa-4x">
+                    <span class="fa-stack fa-4x" id="icono">
                         <i class="fa fa-circle fa-stack-2x text-primary"></i>
                         <i class="fa fa-line-chart fa-stack-1x fa-inverse"></i>
                     </span>
@@ -102,7 +102,7 @@
                     <p class="text-muted" align="justify">Posicionamiento Web, las mejores técnicas de SEO para que seas el líder en todos tus servicios, Marketing online, Campañas de redes sociales. </p>
                 </div>
                 <div class="col-md-3">
-                    <span class="fa-stack fa-4x">
+                    <span class="fa-stack fa-4x" id="icono">
                         <i class="fa fa-circle fa-stack-2x text-primary"></i>
                         <i class="fa fa-laptop fa-stack-1x fa-inverse"></i>
                     </span>
@@ -111,7 +111,7 @@
 
                 </div>
                 <div class="col-md-3">
-                    <span class="fa-stack fa-4x">
+                    <span class="fa-stack fa-4x" id="icono">
                         <i class="fa fa-circle fa-stack-2x text-primary"></i>
                         <i class="fa fa-camera fa-stack-1x fa-inverse"></i>
                     </span>
@@ -119,7 +119,7 @@
                     <p class="text-muted" align="justify">Realizamos las fotografías para tu galería, filmamos tus videos de lanzamiento, para mostrar tus productos con calidad e innovación </p>
                 </div>
                 <div class="col-md-3">
-                    <span class="fa-stack fa-4x">
+                    <span class="fa-stack fa-4x" id="icono">
                         <i class="fa fa-circle fa-stack-2x text-primary"></i>
                         <i class="fa fa-user-md fa-stack-1x fa-inverse"></i>
                     </span>
@@ -229,9 +229,144 @@
     </section>
 
     <!-- About Section -->
-    <section id="about">
+    <!--Section Nosotros -->
+<section id="resume" class="resume-section section-padding">
         <div class="container">
+            <div class="col-lg-12 text-center">
+            <h2 class="section-title wow fadeInUp">Nosotros</h2>
+            <h3 class="section-subheading text-muted">Conoce un poco de nuestra historia de emprendimiento.</h3>
+            </div>
             <div class="row">
+                <div class="col-md-12">
+                    <div class="resume-title"></div>
+
+                    <div class="resume">
+                        <ul class="timeline">
+
+                            <li>
+                                <div class="posted-date">
+                                    <span class="month">2011-2012</span>
+                                </div><!-- /posted-date -->
+                                <div class="timeline-panel wow fadeInUp">
+                                    <div class="timeline-content">
+                                        <div class="timeline-heading">
+                                            <h3>Humildes Comienzos</h3>
+                                            <p>
+                                                Como toda Startup comenzamos dos frikis en un garage (¿Obvio?) realizando pequeños trabajos de mantenimiento y reparación de equipos, además de realizar aplicaciones y programas sencillos de uso personal en C y C++.
+                                            </p>
+                                        </div><!-- /timeline-heading -->
+                                    </div> <!-- /timeline-content -->
+                                </div><!-- /timeline-panel -->
+                            </li>
+
+                            <li class="timeline-inverted">
+                                <div class="posted-date">
+                                  <span class="month">2013</span>
+                                </div><!-- /posted-date -->
+                                <div class="timeline-panel wow fadeInUp">
+                                    <div class="timeline-content">
+                                        <div class="timeline-heading">
+                                            <h3>Creación del Team Regaze</h3>
+                                            <p>
+                                                Conocimos y reunimos a otros dos, casi tan frikis como nosotros, y decidimos dedicarnos a convertir ideas en código, incursionando en el mundo del diseño y la pogramación profesional.
+                                            </p>
+                                        </div><!-- /timeline-heading -->
+                                    </div> <!-- /timeline-content -->
+                                </div><!-- /timeline-panel -->
+                            </li>
+
+                            <li>
+                                <div class="posted-date">
+                                  <span class="month">2014</span>
+                                </div><!-- /posted-date -->
+
+                                <div class="timeline-panel wow fadeInUp">
+                                    <div class="timeline-content">
+                                        <div class="timeline-heading">
+                                            <h3>Certificado PHP-MySQL</h3>
+                                            <span>Universidad Central de Venezuela</span>
+                                        </div><!-- /timeline-heading -->
+
+                                        <div class="timeline-body">
+                                            <p>Certificado en PHP-MySQL: Tecnología para Aplicaciones.</p>
+                                        </div><!-- /timeline-body -->
+                                    </div> <!-- /timeline-content -->
+                                </div><!-- /timeline-panel -->
+                            </li>
+
+                             <li class="timeline-inverted">
+                                <div class="posted-date">
+                                  <span class="month">2013</span>
+                                </div><!-- /posted-date -->
+
+                                <div class="timeline-panel wow fadeInUp">
+                                    <div class="timeline-content">
+                                        <div class="timeline-heading">
+                                            <h3>Certificado C++</h3>
+                                            <span>Benllisoft, Caracas-Venezuela</span>
+                                        </div><!-- /timeline-heading -->
+
+                                        <div class="timeline-body">
+                                            <p>Certificado en Lenguaje de Alto Rendimiento, para desarrollo con caracteristicas de bajo nivel.</p>
+                                        </div><!-- /timeline-body -->
+                                    </div> <!-- /timeline-content -->
+                                </div><!-- /timeline-panel -->
+                            </li>
+
+                            <li>
+                                <div class="posted-date">
+                                    <span class="month">2012-2014</span>
+                                </div><!-- /posted-date -->
+
+                                <div class="timeline-panel wow fadeInUp">
+                                    <div class="timeline-content">
+                                        <div class="timeline-heading">
+                                            <h3>TSU en Informática</h3>
+                                            <span>Desarrollo Básico de Aplicaciones Web. <br> Colegio Universitario de Caracas, Venezuela</span>
+                                        </div><!-- /timeline-heading -->
+
+                                        <div class="timeline-body">
+                                            <p>Finalizado éxitosamente, adquirendo grandes conocimientos para dar continuidad a la Ingeniería.</p>
+                                        </div><!-- /timeline-body -->
+                                    </div> <!-- /timeline-content -->
+                                </div> <!-- /timeline-panel -->
+                            </li>
+
+                            <li class="timeline-inverted">
+                                <div class="posted-date">
+                                  <span class="month">2012</span>
+                                </div><!-- /posted-date -->
+
+                                <div class="timeline-panel wow fadeInUp">
+                                    <div class="timeline-content">
+                                        <div class="timeline-heading">
+                                            <h3>Certificado en Filosofía de Software Libre</h3>
+                                            <span>Open World, Consultores Informáticos <br> Caracas-Venezuela</span>
+                                        </div><!-- /timeline-heading -->
+
+                                        <div class="timeline-body">
+                                            <p>Estudio del Software Libre (Proyecto GNU), Libertades y Distribuciones (GNU/Linux) </p>
+                                        </div><!-- /timeline-body -->
+                                    </div> <!-- /timeline-content -->
+                                </div><!-- /timeline-panel -->
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div><!-- /row -->
+    <!--prueba-->
+
+
+
+
+
+
+
+    <section id="about">
+        <div class="timeline-content">
+            <div class="timeline-panel wow fadeInUp">
+                <div class="timeline-panel wow fadeInUp">
+                    <div class="timeline-heading">
                 <div class="col-lg-12 text-center">
                     <h2 class="section-heading">Nosotros</h2>
                     <h3 class="section-subheading text-muted">Conoce un poco de nuestra historia de emprendimiento.</h3>
