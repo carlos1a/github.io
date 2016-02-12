@@ -1,4 +1,4 @@
-
+/*
 
 var tl = new TimelineLite;
 
@@ -28,3 +28,4 @@ tl
   alpha: 1,
   fill: "#f5e317"
 }, 0.1, "-=1.25")
+*/
