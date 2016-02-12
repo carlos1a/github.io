@@ -7,7 +7,7 @@
                 </div>
             </div>
             <div class="row">
-                <div class="col-sm-4">
+                <div class="col-sm-4 wow bounceInLeft">
                     <div class="team-member">
                         <img src="img/team/judiel_1.png" class="img-responsive img-circle" alt="">
                         <h4>Judiel</h4>
@@ -21,7 +21,7 @@
                         </ul>
                     </div>
                 </div>
-                <div class="col-sm-4">
+                <div class="col-sm-4 wow bounceInUp">
                     <div class="team-member">
                         <img src="img/team/carlos_1.png" class="img-responsive img-circle" alt="">
                         <h4>Carlos</h4>
@@ -36,7 +36,7 @@
                         </ul>
                     </div>
                 </div>
-                <div class="col-sm-4">
+                <div class="col-sm-4 wow bounceInRight">
                     <div class="team-member">
                         <img src="img/team/miguel_1.png" class="img-responsive img-circle" alt="">
                         <h4>Miguel</h4>
