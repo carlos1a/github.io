@@ -70,7 +70,7 @@
     <!-- End Contact Section -->
 
     <!-- Footer Section -->
-    <?php require("section/contacts.php"); ?>
+    <?php require("section/footer.php"); ?>
     <!-- End Footer Section -->
 
 
