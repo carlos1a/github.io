@@ -20,6 +20,7 @@
     <link href='https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
     <link href='https://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700' rel='stylesheet' type='text/css'>
     <link href='logo/logo.css' rel='stylesheet' type='text/css'>
+    <link href="css/animate.css" rel="stylesheet" type="text/css">
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
     <!--[if lt IE 9]>
@@ -272,8 +273,11 @@
     <!-- Custom Theme JavaScript -->
     <script src="js/agency.js"></script>
     <script src="logo/logo.js"></script>
+    <script src="js/wow.min.js"></script>
 
-
+<script type="text/javascript">
+  new WOW().init();
+</script>
 </body>
 
 </html>

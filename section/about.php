@@ -13,8 +13,8 @@
                             <div class="timeline-image">
                                 <img class="img-circle img-responsive" src="img/about/1.jpg" alt="">
                             </div>
-                            <div class="timeline-panel">
-                                <div class="timeline-heading">
+                            <div class="timeline-panel wow slideInLeft">
+                                <div class="timeline-heading ">
                                     <h4>2011-2012</h4>
                                     <h4 class="subheading">Humildes Comienzos </h4>
                                 </div>
@@ -23,11 +23,11 @@
                                 </div>
                             </div>
                         </li>
-                        <li class="timeline-inverted" id="trans">
+                        <li class="timeline-inverted " id="trans">
                             <div class="timeline-image">
                                 <img class="img-circle img-responsive" src="img/about/2.jpg" alt="">
                             </div>
-                            <div class="timeline-panel">
+                            <div class="timeline-panel wow slideInRight">
                                 <div class="timeline-heading">
                                     <h4>2013</h4>
                                     <h4 class="subheading">Creación del Team Regaze</h4>
@@ -41,7 +41,7 @@
                             <div class="timeline-image">
                                 <img class="img-circle img-responsive" src="img/about/3.jpg" alt="">
                             </div>
-                            <div class="timeline-panel">
+                            <div class="timeline-panel wow slideInLeft">
                                 <div class="timeline-heading">
                                     <h4>2014</h4>
                                     <h4 class="subheading">Primeros Proyectos</h4>
@@ -56,7 +56,7 @@
                             <div class="timeline-image">
                                 <img class="img-circle img-responsive" src="img/about/4.jpg" alt="">
                             </div>
-                            <div class="timeline-panel">
+                            <div class="timeline-panel wow slideInRight">
                                 <div class="timeline-heading">
                                     <h4>2015...</h4>
                                     <h4 class="subheading">Presente y Futuro</h4>
@@ -69,8 +69,8 @@
                                 </div>
                             </div>
                         </li>
-                        <li class="timeline-inverted" id="trans">
-                            <div class="timeline-image">
+                        <li class="timeline-inverted wow FadeInUp" id="trans">
+                            <div class="timeline-image ">
                                 <h4>¡Se Parte
                                     <br>De Nuestra
                                     <br>Historia!</h4>

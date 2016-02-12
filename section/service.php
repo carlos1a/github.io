@@ -8,7 +8,7 @@
             </div>
             <div class="row text-center">
                 <div class="col-md-3">
-                    <span class="fa-stack fa-4x" id="icono">
+                    <span class="fa-stack fa-4x wow rotateIn" data-wow-duration="1s" data-wow-delay="0.5s" >
                         <i class="fa fa-circle fa-stack-2x text-primary"></i>
                         <i class="fa fa-line-chart fa-stack-1x fa-inverse"></i>
                     </span>
@@ -16,7 +16,7 @@
                     <p class="text-muted" align="justify">Posicionamiento Web, las mejores técnicas de SEO para que seas el líder en todos tus servicios, Marketing online, Campañas de redes sociales. </p>
                 </div>
                 <div class="col-md-3">
-                    <span class="fa-stack fa-4x" id="icono">
+                    <span class="fa-stack fa-4x wow rotateIn" data-wow-duration="1s" data-wow-delay="1s" id="">
                         <i class="fa fa-circle fa-stack-2x text-primary"></i>
                         <i class="fa fa-laptop fa-stack-1x fa-inverse"></i>
                     </span>
@@ -25,7 +25,7 @@
 
                 </div>
                 <div class="col-md-3">
-                    <span class="fa-stack fa-4x" id="icono">
+                    <span class="fa-stack fa-4x wow rotateIn" data-wow-duration="1s" data-wow-delay="1.5s"id="">
                         <i class="fa fa-circle fa-stack-2x text-primary"></i>
                         <i class="fa fa-camera fa-stack-1x fa-inverse"></i>
                     </span>
@@ -33,7 +33,7 @@
                     <p class="text-muted" align="justify">Realizamos las fotografías para tu galería, filmamos tus videos de lanzamiento, para mostrar tus productos con calidad e innovación </p>
                 </div>
                 <div class="col-md-3">
-                    <span class="fa-stack fa-4x" id="icono">
+                    <span class="fa-stack fa-4x wow rotateIn" data-wow-duration="1s" data-wow-delay="2s"id="">
                         <i class="fa fa-circle fa-stack-2x text-primary"></i>
                         <i class="fa fa-user-md fa-stack-1x fa-inverse"></i>
                     </span>
